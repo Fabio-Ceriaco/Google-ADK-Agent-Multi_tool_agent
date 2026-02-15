@@ -8,7 +8,7 @@ For me as a developer, this project serves as a learning experience to understan
 and how to integrate external API's to enhance the agent's capabilities.
 It is also a staring point for building more complex agents that can perform a wider range of tasks and provide more detailed information to users.
 
-#Libraries used:
+# Libraries used:
     - datetime: For handling date and time operations.
     - zoneinfo: For working with time zones.
     - requests: For making HTTP requests to external APIs to retrieve weather and geocoding data.
